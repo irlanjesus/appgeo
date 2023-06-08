@@ -1,0 +1,32 @@
+<!-- Cabeçalho da Aplicação -->
+<div class="h2 bg-success text-white">
+  <h3 class="mb-4 ml-1" style="text-shadow: 2px 2px 4px;">
+    <span class="icon">
+      <i class="fas fa-globe-americas"></i>
+    </span>
+    Localização
+  </h3>
+</div>
+
+<!-- Div Com Espaçamento a Esquerda -->
+<div class="ml-3">
+  <h3>
+    Latitude: {{latitude}} <br>
+    Longitude: {{longitude}}
+  </h3>
+  <!--Div Formatada Como se Fosse um Botão -->
+  <div class="btn btn-success">
+    <a class="text-white" style="text-decoration: none;"[href]="map_url"> Onde Estou? (Google Maps)</a>
+  </div>
+  <hr>
+  <!-- Botão para o Rastreamento -->
+  <button class="btn btn-success text-white" data-toggle="collapse" data-target="#rastro">Rastreamento</button>
+
+  <!-- Div do Rastreamento -->
+  <div id="rastro" class="collapse">
+    <h1>
+      Latitude: {{latitude2}} <br>
+      Longitude: {{longitude2}}
+    </h1>
+  </div>
+</div>
