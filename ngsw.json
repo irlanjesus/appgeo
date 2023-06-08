@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1686169715484,
-  "index": "/index.html",
+  "timestamp": 1686244081588,
+  "index": "/appgeo/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.235ddd89e60d3c88.js",
-        "/manifest.webmanifest",
-        "/polyfills.1eac5a83e0cc129c.js",
-        "/runtime.7e261ab6bd05ecb9.js",
-        "/styles.ef46db3751d8e999.css"
+        "/appgeo/favicon.ico",
+        "/appgeo/index.html",
+        "/appgeo/main.235ddd89e60d3c88.js",
+        "/appgeo/manifest.webmanifest",
+        "/appgeo/polyfills.1eac5a83e0cc129c.js",
+        "/appgeo/runtime.7e261ab6bd05ecb9.js",
+        "/appgeo/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/appgeo/assets/icons/icon-128x128.png",
+        "/appgeo/assets/icons/icon-144x144.png",
+        "/appgeo/assets/icons/icon-152x152.png",
+        "/appgeo/assets/icons/icon-192x192.png",
+        "/appgeo/assets/icons/icon-384x384.png",
+        "/appgeo/assets/icons/icon-512x512.png",
+        "/appgeo/assets/icons/icon-72x72.png",
+        "/appgeo/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "d07d3309b13cfe90a32a3650dbb7b4957c84656d",
-    "/main.235ddd89e60d3c88.js": "481f996ea690ec980eb9b55c2aa104e492313ee7",
-    "/manifest.webmanifest": "f1b5908f1c5c64aca0cde01cff483746dd6f590c",
-    "/polyfills.1eac5a83e0cc129c.js": "04a3aa5af448f7a3f617e64b1b5f351ff530f57e",
-    "/runtime.7e261ab6bd05ecb9.js": "52f6e1d1a2e1bf5ebd09c5cd34d3a2198ef2ce34",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/appgeo/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/appgeo/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/appgeo/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/appgeo/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/appgeo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/appgeo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/appgeo/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/appgeo/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/appgeo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/appgeo/index.html": "a8f6131e0515897322154d08136489b147491b41",
+    "/appgeo/main.235ddd89e60d3c88.js": "481f996ea690ec980eb9b55c2aa104e492313ee7",
+    "/appgeo/manifest.webmanifest": "f1b5908f1c5c64aca0cde01cff483746dd6f590c",
+    "/appgeo/polyfills.1eac5a83e0cc129c.js": "04a3aa5af448f7a3f617e64b1b5f351ff530f57e",
+    "/appgeo/runtime.7e261ab6bd05ecb9.js": "52f6e1d1a2e1bf5ebd09c5cd34d3a2198ef2ce34",
+    "/appgeo/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
